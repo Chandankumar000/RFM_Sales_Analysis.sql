@@ -13,13 +13,13 @@ RFM Sales Analysis Useing Sql and Tableau
 increase customer retention and lifetime value
 increase average order size, etc.
 
+> Dashboard1 link:
+![image](https://user-images.githubusercontent.com/87275009/175495724-5daf392e-066b-44e2-959b-139d064f936b.png)
+>> https://public.tableau.com/app/profile/chandan.kumar3117/viz/GlobalSalesDashboard1/Dashboard1?publish=yes
+
+
 > In Tableau Find Key-Insight Like:
 ![image](https://user-images.githubusercontent.com/87275009/175494632-448d6629-5667-401c-aa63-ff8f69358af7.png)
 
-
-
-
-
-
-Dashboard link: 
-https://public.tableau.com/app/profile/chandan.kumar3117/viz/GlobalSalesDashboard2/Dashboard2?publish=yes
+Dashboard2 link: 
+>>https://public.tableau.com/app/profile/chandan.kumar3117/viz/GlobalSalesDashboard2/Dashboard2?publish=yes
